@@ -1,0 +1,61 @@
+body {
+
+	font-family: "Helvetica" sans-serif;
+
+}
+
+.wholebg {
+	background-color: #0D4C92;
+
+	227C70
+
+}
+
+
+.topLeftCornerText-rl {
+	
+}
+
+.intro1 {
+	color: 82C3EC;
+	letter-spacing: 0.1rem;
+	font-size: 1.2rem;
+	font-family: "Helvetica" sans-serif;
+}
+
+
+.myName{
+	font-size: 4rem;
+	font-family: 'Kanit', sans-serif;
+	letter-spacing: 0.1rem;
+}
+
+.wordSaying {
+
+}
+
+
+.workDetails{
+	list-style-type: square;
+	font-size: 0.9rem;
+}
+
+.workCompany{
+	font-size: 1.3rem;
+	list-style-type: none;
+}
+
+.bgbody{
+	background-color: #0D4C92;
+}
+
+.bgcard, .bgContactForm{
+	background-color: #557153;
+}
+
+
+.textlink {
+	color: whitesmoke;
+	text-decoration-color: none;
+	text-decoration: none;
+}
